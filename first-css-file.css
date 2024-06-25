@@ -1,0 +1,47 @@
+.name{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(255, 81, 0, 0.705);
+}
+.bio{
+    font-size: 15px;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#follow{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    size: 20px;
+}
+h2{
+    color: rgb(1, 43, 36);
+    font-size: 30px;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    
+}
+img{
+    width: 250px;
+    margin: 24px;
+}
+input{
+    padding: 24px;
+    border-color: green;
+    border-width: 2px;
+}
+button{
+    padding: 10px;
+    background-color: gray;
+    border-color: blue;
+}
+body{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
